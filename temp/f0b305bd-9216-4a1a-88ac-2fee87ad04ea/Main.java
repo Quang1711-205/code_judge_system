@@ -1,0 +1,1 @@
+import java.util.Scanner;\n\npublic class Main {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n        // Code here\n    }\n}
